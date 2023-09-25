@@ -1,0 +1,8 @@
+Thor Costume,Marvel INC,$15,1000
+Loki Costume,Marvel INC,$16.5,1000
+Kakashi Costume,Anime Cor,$28,1000
+Ice Man Costume,Marvel INC,$17.5,1000
+Robin Costume,DC Comics,$20,1000
+Batman Costume,DC Comics,$25.6,1000
+Goku Costume,Anime Cor,$25,1000
+Woody Costume,Toy Story,$20,1000
